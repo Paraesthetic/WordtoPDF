@@ -62,4 +62,6 @@ This naming rule is specific to the current code and may overwrite a file with t
 
 ## Licence
 
-Apache License version 2.0. See LICENSE for the complete terms.
+Copyright 2026 Ex.perdition Software.
+
+Licensed under the Apache License, Version 2.0. You may use, copy, modify and distribute this code, including commercially. When distributing this code or a derivative work, you must retain the licence, applicable copyright notices and the Ex.perdition Software attribution contained in NOTICE, in the manner required by the licence. See LICENSE and NOTICE for the complete terms.
